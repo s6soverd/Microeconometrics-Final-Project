@@ -1,0 +1,18 @@
+name: student_project
+
+dependencies:
+- numpy
+- pandas
+- jupyterlab
+- matplotlib
+- seaborn
+- scipy
+- statsmodels
+- patsy
+- pip
+- pip:
+  - econtools
+  
+
+
+
