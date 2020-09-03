@@ -38,8 +38,7 @@ The replication is conducted using Python, I have stored my functions that gener
 
 * Pop-Eleches, Cristian, and Miguel Urquiola. 2013. "Going to a Better School: Effects and Behavioral Responses." American Economic Review, 103 (4): 1289-1324.
 
-[![Build Status](https://travis-ci.org/HumanCapitalAnalysis/template-course-project.svg?branch=master)](https://travis-ci.org/HumanCapitalAnalysis/template-course-project)
-
+[![Build Status](https://travis-ci.com/s6soverd/Microeconometrics-Final-Project.svg?branch=master)](https://travis-ci.com/s6soverd/Microeconometrics-Final-Project)
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/HumanCapitalAnalysis/template-course-project/blob/master/LICENSE)
