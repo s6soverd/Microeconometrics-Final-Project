@@ -1,5 +1,5 @@
 
-# Student Project: Replication of Pop-Eleches, Cristian, and Miguel Urquiola (2013)
+# Replication of Pop-Eleches, Cristian, and Miguel Urquiola (2013)
 ---
 <a href="https://nbviewer.jupyter.org/github/HumanCapitalAnalysis/microeconometrics-course-project-s6soverd/blob/master/replication.ipynb"
    target="_parent">
