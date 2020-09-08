@@ -30,8 +30,8 @@ behavioral responses it triggers.
 ### On a Side Note
 
 The replication is conducted using Python, I have stored my functions that generate tables and figures in seperate files, which you can access
-[here](https://github.com/HumanCapitalAnalysis/microeconometrics-course-project-s6soverd/tree/master/auxiliary/project_auxiliary_tables.py),and
-[here](https://github.com/HumanCapitalAnalysis/microeconometrics-course-project-s6soverd/tree/master/auxiliary/project_auxiliary_plots.py), 
+[here](https://github.com/s6soverd/Microeconometrics-Final-Project/blob/master/auxiliary/project_auxiliary_tables.py),and
+[here](https://github.com/s6soverd/Microeconometrics-Final-Project/blob/master/auxiliary/project_auxiliary_plots.py), 
 
 
 ### References:
